@@ -1,4 +1,2 @@
-first-project
-=============
-
-This is a project to practice git and GitHub
+First Project
+This is a project to practice Git and GitHub
